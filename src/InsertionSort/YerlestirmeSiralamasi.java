@@ -1,6 +1,6 @@
 package InsertionSort;
 
-public class YerlestirmeSiralamasi {
+public class YerdegistirmeSiralamasi {
     /*
     Dizinin ilk elemanı grup kabul edilir.
     Ardından bu gruba diğer taraftan sırayla yeni elemanlar alınır.
